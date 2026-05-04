@@ -4,8 +4,7 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
 ## About Me
 
 🚀 I'm a B.Tech CSE student specializing in **Full Stack Development & Artificial Intelligence**, with a strong interest in building scalable applications and solving real-world problems.
