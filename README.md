@@ -5,15 +5,16 @@
 ---
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ## About Me
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🚀 I'm a B.Tech CSE student specializing in **Full Stack Development & Artificial Intelligence**, with a strong interest in building scalable applications and solving real-world problems.
 
-📘 My journey in tech revolves around combining **development skills with data-driven insights**, whether it's building web applications or working on machine learning models.
+📘 What's interesting is that my journey in tech is driven by curiosity — I enjoy combining **development skills with data-driven insights**, whether it's building web applications or working on machine learning models.
 
-💡 I believe in continuous learning, practical implementation, and improving through real-world projects and experiences.
+📖 This journey has helped me realize that learning is not limited to degrees; it grows through **practical experience and continuous exploration**.
 
 🔥 *Always exploring, always building!*
 
