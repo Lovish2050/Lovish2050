@@ -8,7 +8,7 @@
 
 ## About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 🚀 I'm a B.Tech CSE student specializing in **Full Stack Development & Artificial Intelligence**, with a strong interest in building scalable applications and solving real-world problems.
 
