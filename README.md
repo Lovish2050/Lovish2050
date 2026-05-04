@@ -21,6 +21,7 @@
 🌱 Learning **Advanced Full Stack Development & Machine Learning**
 💬 Ask me about **React, Node.js, Python, Data Analysis**
 📊 Exploring **AI models, data-driven applications & system design**
+
 📫 Reach me at **[lovishrawal2050@gmail.com](mailto:lovishrawal2050@gmail.com)**
 
 
