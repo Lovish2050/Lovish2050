@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Lovish
 
-<!--
-**Lovish2050/Lovish2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥🔥 A Passionate Full Stack Developer & AI Enthusiast from India 🇮🇳 🔥🔥
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## About Me
+
+🚀 I'm a B.Tech CSE student specializing in **Full Stack Development & Artificial Intelligence**, with a strong interest in building scalable applications and solving real-world problems.
+
+📘 My journey in tech revolves around combining **development skills with data-driven insights**, whether it's building web applications or working on machine learning models.
+
+💡 I believe in continuous learning, practical implementation, and improving through real-world projects and experiences.
+
+🔥 *Always exploring, always building!*
+
+---
+
+## Current Focus
+
+🌱 Learning **Advanced Full Stack Development & Machine Learning**
+💬 Ask me about **React, Node.js, Python, Data Analysis**
+📊 Exploring **AI models, data-driven applications & system design**
+📫 Reach me at **[lovishrawal2050@gmail.com](mailto:lovishrawal2050@gmail.com)**
+
+
